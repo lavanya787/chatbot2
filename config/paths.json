@@ -1,0 +1,8 @@
+{
+    "log_file": "logs/query_answer_log.json",
+    "intent_model_output_dir": "models/intent",
+    "ner_model_output_dir": "models/ner",
+    "base_intent_model": "distilbert-base-uncased",
+    "base_ner_model": "Davlan/bert-base-multilingual-cased-ner-hrl"
+  }
+  

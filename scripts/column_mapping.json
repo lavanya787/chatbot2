@@ -1,0 +1,21 @@
+{
+    "dairy": "product_category",
+    "groceries": "product_category",
+    "milk": "product_name",
+    "fruits": "product_category",
+    "electronics": "product_category",
+    "physics": "subject",
+    "chemistry": "subject",
+    "math": "subject",
+    "student": "name",
+    "date": "transaction_date",
+    "sales": "amount",
+    "price": "price",
+    "amount": "amount",
+    "total": "amount",
+    "region": "region",
+    "location": "region",
+    "city": "region",
+    "subject": "subject"
+  }
+  

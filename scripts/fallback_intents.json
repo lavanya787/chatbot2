@@ -1,0 +1,18 @@
+{
+    "total": "get_total",
+    "sales": "get_total",
+    "revenue": "get_total",
+    "highest": "compare",
+    "most": "compare",
+    "least": "compare",
+    "average": "get_average",
+    "mean": "get_average",
+    "show": "get_column",
+    "column": "get_column",
+    "names": "get_column",
+    "did we use": "compare",
+    "compare": "compare",
+    "more than": "compare",
+    "less than": "compare"
+  }
+  

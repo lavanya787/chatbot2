@@ -1,0 +1,27 @@
+List the top 3 products by sales, and compare their revenue with the previous month.
+How much did I spend on transport in January versus March?
+List all materials with quantity less than 10
+What is the total sales amount for last month?
+List the top 3 products by sales, and compare their revenue with the previous month.
+What is the total sales amount for last month?
+What’s the average temperature this month?
+Filter the employees who joined after January 2020.
+Compare the marks of students in Mathematics and Chemistry.
+Show me the employees with the highest salaries.
+Total money spent on food in April.
+Did I spend more on groceries in the last 30 days than last month?
+Did boys perform better than girls in Maths?
+How much revenue was generated from electronics last week?
+How much revenue was generated from electronics last week?
+What is the total revenue for the quarter?
+What is the total sales amount for last month?
+How much revenue was generated from electronics last week?
+How much revenue was generated from electronics last week?
+How much revenue was generated from electronics last week?
+¿Cuál es la capital de España?
+¿Cuáles son las ventas totales del último mes?
+¿Cuáles son las ventas totales del último mes?
+¿Cuáles son las ventas totales del último mes? (translated: What are the total sales of the last month?)
+What is the total sales amount for last month? (translated: What is the total sales amount for last month?)
+Show topics revised more than once
+Who is the top scorer in Physics?
